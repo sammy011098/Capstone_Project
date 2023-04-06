@@ -1,7 +1,7 @@
 # Capstone_Project
 
   DESCRIPTION
-    Create a dynamic and responsive Java e-healthcare web application for ordering medicines of different categories.
+    Created a dynamic and responsive Java e-healthcare web application for ordering medicines of different categories.
 
    Features of the application:
 
